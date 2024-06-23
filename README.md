@@ -4,8 +4,6 @@
 
 ## Description
 
-This application allows users to interactively chat with multiple PDF documents using either OpenAI or HuggingFace models. It leverages Streamlit for the user interface and integrates `langchain`, an open source framework for building applications based on large language models (LLMs). Users can generate responses with or without uploading documents.
-
 This web application is designed to detect vehicles and traffic signs in images using  `YOLO Model`. The application features an interactive interface where users can upload an image, and the system will process it to detect and highlight vehicles and traffic signs.
 
 ## Testing :
